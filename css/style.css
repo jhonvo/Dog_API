@@ -1,0 +1,10 @@
+.results{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.size{
+    width: 200px;
+    margin: 5px;
+}
